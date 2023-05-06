@@ -3,11 +3,11 @@
 ![Bike Sales Dashboard](https://github.com/moaazelsokary/BikeStores-Anlaysis-SQL-Excel/blob/main/Screenshot_1.png)
 
 ## Tool Used
-1-SQL Quiery
+SQL Quiery
 - Joing Different Tables and Group it
 - Select the most important Objects that will help us in our analysis
 
-2-Microsoft Excel 
+Microsoft Excel 
 - Importing Data from SQL file
 - Understanding the Meta Data
 - EDA [Exploratory Data Analysis]
